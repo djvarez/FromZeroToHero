@@ -100,9 +100,6 @@ def adivina ():
             seguir = False
     print("Fin del juego")
 
-def calculo_iva ():
-    
-
 def selector ():
     salir = False
     while not salir:
